@@ -6,4 +6,4 @@ I'm an accidental software engineer and a machine learning nerd who believes AI 
 
 Right now I'm co-founder and COO of ORCA <img src="orca-logo.png" height="18" alt="ORCA logo" />, an agentic triage system that handles the repetitive, high-volume calls nobody wants to take. I also run all things technical at a medical distributor based out of California, and I'm finishing a Data Science & ML diploma at RRC Polytech.
 
-I'll have room for something new in the new year. If you're working on something you care about, tell me about it.
+I'll have room for something new in the new year. If you're working on something you care about, [tell me about it](https://www.linkedin.com/in/aylie-nagler/).
